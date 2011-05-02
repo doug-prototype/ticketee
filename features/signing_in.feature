@@ -13,3 +13,5 @@ Feature: Signing in
 		And they click the first link in the email
 		Then I should see "Your account was successfully confirmed"
 		Then I should see "Signed in as user@ticketee.com"
+	
+	
